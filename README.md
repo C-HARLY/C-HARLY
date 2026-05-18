@@ -1,48 +1,51 @@
-# Hola, soy Carlos Mejía 👋
-### Desarrollador de Software | Estudiante de ingeniera en sistemas
 
-¡Bienvenido a mi perfil! Soy un desarrollador apasionado por la construcción de sistemas robustos y escalables. Actualmente estoy enfocado en el ecosistema **Microsoft .NET**, creando soluciones web modernas y eficientes.
+# ¡Hola! Soy Carlos Mejía 👋
+### Desarrollador Backend Junior | Estudiante de Ingeniería en Sistemas
+
+¡Bienvenido a mi perfil! Soy un desarrollador apasionado por la construcción de sistemas robustos, la arquitectura de software y el modelado de bases de datos relacionales. Actualmente estoy enfocado en el ecosistema **Backend **, creando soluciones empresariales eficientes, mientras diseño e implemento plataformas orientadas a servicios para el sector residencial.
 
 ---
 
-###  Tech Stack & Herramientas 
+###  Cuento con bases y proyectos en 
 
-**Backend & Core:(En aprendizaje)**
+**Backend & Core:**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Frontend (En aprendizaje):**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Bases de Datos & Persistencia:**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Herramientas:**
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+**Herramientas & Entorno Cloud:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-###  En qué estoy trabajando ahora
+### 🚀 Proyecto Destacado Actual
 
-**Arquitectura Robusta y Desacoplada:** Diseño orientado a servicios que prioriza la separación limpia entre la lógica de negocio y la persistencia de datos, permitiendo una escalabilidad eficiente.
-* **Modelado de Datos Avanzado:** Implementación de un modelo relacional complejo con estrictas restricciones de integridad referencial para el control de inquilinos, asignación de departamentos e historiales de transacciones.
-* **Automatización e Integración:** Conexión con servicios externos y motores de reportes para flujos de trabajo automatizados que reducen la carga operativa administrativa.
-* **Consistencia de UI/UX:** Interfaz gráfica estandarizada bajo un sistema de diseño unificado (identidad visual, logo corporativo y paletas de colores consistentes en cada módulo).
-## 🛠️ Stack Tecnológico
+### 🎯 Condominio Vista Verde — Plataforma Residencial B2B/B2C
+Es una solución de software modular diseñada para optimizar la administración, auditoría financiera y automatización de procesos en complejos residenciales. El sistema simula un entorno de producción real en la nube, manejando reglas de negocio complejas y automatización de servicios.
 
-| Componente | Tecnología | Propósito del mundo real |
+* **Arquitectura Orientada a Servicios:** Separación limpia entre la lógica de negocio y la persistencia de datos para garantizar escalabilidad.
+* **Modelado de Datos Avanzado:** Diseño relacional complejo con estrictas restricciones de integridad para el control de inquilinos y estados de cuenta financieros.
+* **Automatización Integrada:** Generación masiva de reportes de auditoría y flujos automatizados de mensajería en tiempo real.
+
+| Componente | Tecnología | Propósito en el proyecto |
 | :--- | :--- | :--- |
-| **Core & Lógica** | Java | Arquitectura robusta, fuertemente tipada y orientada a objetos para el procesamiento limpio de reglas de negocio. |
-| **Base de Datos** | PostgreSQL (Neon Tech) | Persistencia de datos en la nube con alta disponibilidad, manejo de relaciones complejas y consultas optimizadas. |
-| **Reportería** | JasperReports | Compilación y exportación milimétrica de auditorías generales y detección automatizada de cuentas morosas en formato PDF. |
-| **Notificaciones** | SMTP (Jakarta Mail) | Integración de servicios de mensajería real para el envío automatizado de comprobantes de pago en tiempo real. |
+| **Core & Lógica** | Java | Procesamiento robusto de reglas de negocio y consistencia visual en componentes de UI. |
+| **Base de Datos** | PostgreSQL (Neon Tech) | Persistencia y gestión relacional de alta disponibilidad en la nube. |
+| **Reportería** | JasperReports | Compilación de auditorías generales y detección automatizada de cuentas morosas en PDF. |
+| **Notificaciones** | SMTP (Jakarta Mail) | Envío automatizado de comprobantes de pago en tiempo real a los propietarios. |
 
+---
 
-###  Contáctame
+### 📫 Contáctame
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-tomas-92206b274" target="_blank">

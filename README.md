@@ -28,29 +28,18 @@
 
 ###  En qué estoy trabajando ahora
 
-*  **E-Commerce Portfolio:** Una aplicación completa con **React** (Frontend) y **ASP.NET Core Web API** (Backend) gestionando productos, carritos y usuarios.
-   Desarrollo de una plataforma integral de comercio electrónico inspirada en retailers de alto tráfico (como Pacifiko o Max). El sistema simula un entorno de
-   producción real, gestionando flujos de datos       complejos desde la selección de productos hasta la simulación de compra, con un fuerte enfoque en la seguridad,
-   la integridad de los datos y una arquitectura escalable.
-  
-  Objetivos Técnicos:
-  
-  Implementar una arquitectura Full Stack desacoplada (Frontend y Backend separados).
-  
-  Demostrar el dominio de sistemas complejos y relaciones de base de datos avanzadas.
-  
-  Aplicar las mejores prácticas de seguridad (Autenticación/Autorización) y rendimiento.
-  
-  🛠 Stack Tecnológico:
-  
-  Backend: ASP.NET Core Web API (C#) - Para una lógica de negocio robusta y tipada.
-  
-  Frontend: React.js - Para una interfaz de usuario dinámica y reactiva (SPA).
-  
-  Base de Datos: SQL Server - Gestión de inventarios, usuarios y transacciones.
-  
-  ORM: Entity Framework Core - Manejo eficiente de datos.
+**Arquitectura Robusta y Desacoplada:** Diseño orientado a servicios que prioriza la separación limpia entre la lógica de negocio y la persistencia de datos, permitiendo una escalabilidad eficiente.
+* **Modelado de Datos Avanzado:** Implementación de un modelo relacional complejo con estrictas restricciones de integridad referencial para el control de inquilinos, asignación de departamentos e historiales de transacciones.
+* **Automatización e Integración:** Conexión con servicios externos y motores de reportes para flujos de trabajo automatizados que reducen la carga operativa administrativa.
+* **Consistencia de UI/UX:** Interfaz gráfica estandarizada bajo un sistema de diseño unificado (identidad visual, logo corporativo y paletas de colores consistentes en cada módulo).
+## 🛠️ Stack Tecnológico
 
+| Componente | Tecnología | Propósito del mundo real |
+| :--- | :--- | :--- |
+| **Core & Lógica** | Java | Arquitectura robusta, fuertemente tipada y orientada a objetos para el procesamiento limpio de reglas de negocio. |
+| **Base de Datos** | PostgreSQL (Neon Tech) | Persistencia de datos en la nube con alta disponibilidad, manejo de relaciones complejas y consultas optimizadas. |
+| **Reportería** | JasperReports | Compilación y exportación milimétrica de auditorías generales y detección automatizada de cuentas morosas en formato PDF. |
+| **Notificaciones** | SMTP (Jakarta Mail) | Integración de servicios de mensajería real para el envío automatizado de comprobantes de pago en tiempo real. |
 
 
 ###  Contáctame
